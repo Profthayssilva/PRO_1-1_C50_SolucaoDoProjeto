@@ -1,7 +1,7 @@
 .menu{
     display: flex;
     justify-content: space-between;
-    background-color: black;
+    background-color: rgb(212, 22, 22);
     font-size: 30px;
     font-family: sans-serif;
     font-weight: 400;
